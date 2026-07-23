@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastos - Copia\\ControleGastos\\ControleGastos.Communication\\ControleGastos.Communication.csproj",
+      "projectUniqueName": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastosPRJ\\ControleGastos\\ControleGastos.Communication\\ControleGastos.Communication.csproj",
       "projectName": "ControleGastos.Communication",
-      "projectPath": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastos - Copia\\ControleGastos\\ControleGastos.Communication\\ControleGastos.Communication.csproj",
+      "projectPath": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastosPRJ\\ControleGastos\\ControleGastos.Communication\\ControleGastos.Communication.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastos - Copia\\ControleGastos\\ControleGastos.Communication\\obj\\",
+      "outputPath": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastosPRJ\\ControleGastos\\ControleGastos.Communication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

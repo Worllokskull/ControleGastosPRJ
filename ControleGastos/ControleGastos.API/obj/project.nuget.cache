@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X4b1UJ8WpvM=",
+  "dgSpecHash": "U7cd5ysSGZY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastos - Copia\\ControleGastos\\ControleGastos.API\\ControleGastos.API.csproj",
+  "projectFilePath": "C:\\Users\\Usuário\\OneDrive\\Desktop\\Projetos RocketSeat\\ControleGastosPRJ\\ControleGastos\\ControleGastos.API\\ControleGastos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuário\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.29\\microsoft.data.sqlite.core.8.0.29.nupkg.sha512",
