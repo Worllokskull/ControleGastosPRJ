@@ -1,0 +1,22 @@
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\bin\Debug\net8.0\ControleGastos.Exception.deps.json
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\bin\Debug\net8.0\ControleGastos.Exception.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\bin\Debug\net8.0\ControleGastos.Exception.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\refint\ControleGastos.Exception.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ref\ControleGastos.Exception.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\bin\Debug\net8.0\ControleGastos.Exception.deps.json
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\bin\Debug\net8.0\ControleGastos.Exception.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\bin\Debug\net8.0\ControleGastos.Exception.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\refint\ControleGastos.Exception.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ControleGastos.Exception.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Exception\obj\Debug\net8.0\ref\ControleGastos.Exception.dll

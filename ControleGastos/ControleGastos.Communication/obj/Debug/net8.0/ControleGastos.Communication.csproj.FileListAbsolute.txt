@@ -1,0 +1,22 @@
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\bin\Debug\net8.0\ControleGastos.Communication.deps.json
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\bin\Debug\net8.0\ControleGastos.Communication.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\bin\Debug\net8.0\ControleGastos.Communication.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\refint\ControleGastos.Communication.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ref\ControleGastos.Communication.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\bin\Debug\net8.0\ControleGastos.Communication.deps.json
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\bin\Debug\net8.0\ControleGastos.Communication.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\bin\Debug\net8.0\ControleGastos.Communication.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\refint\ControleGastos.Communication.dll
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ControleGastos.Communication.pdb
+C:\Users\Usuário\OneDrive\Desktop\Projetos RocketSeat\ControleGastos - Copia\ControleGastos\ControleGastos.Communication\obj\Debug\net8.0\ref\ControleGastos.Communication.dll

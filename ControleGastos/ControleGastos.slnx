@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ControleGastos.API/ControleGastos.API.csproj" />
+  <Project Path="ControleGastos.Communication/ControleGastos.Communication.csproj" />
+  <Project Path="ControleGastos.Exception/ControleGastos.Exception.csproj" />
+</Solution>
